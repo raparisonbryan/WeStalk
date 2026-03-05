@@ -3,7 +3,7 @@ export const employees = [
     id: 1,
     name: "Kwame",
     role: "3D / VFX",
-    image: "../src/assets/images/kwame.png",
+    image: "/images/kwame.png",
     tagline: "L'homme qui ne vieillit jamais",
     funFacts: [
       "Il fait plus chaud qu'au sahara dans son bureau.",
@@ -15,7 +15,7 @@ export const employees = [
     id: 2,
     name: "Gregory",
     role: "Associé",
-    image: "../src/assets/images/greg.png",
+    image: "/images/greg.png",
     tagline: "Allo Bassem, ouais c'est Greg",
     funFacts: [
       "Faut pas l'énerver au foot.",
@@ -28,7 +28,7 @@ export const employees = [
     id: 3,
     name: "Anthony",
     role: "Ingénieur du son",
-    image: "../src/assets/images/anthony.png",
+    image: "/images/anthony.png",
     tagline: "On joue ?",
     funFacts: [
       "Possède le BAFA pour animer vos soirées.",
@@ -41,7 +41,7 @@ export const employees = [
     id: 4,
     name: "Charlotte",
     role: "Directrice artistique",
-    image: "../src/assets/images/charlotte.png",
+    image: "/images/charlotte.png",
     tagline: "Bon courage pour écrire mon nom.",
     funFacts: [
       "Ses titres de taille 100px sur Figma nous manquent.",
@@ -53,7 +53,7 @@ export const employees = [
     id: 5,
     name: "Vito",
     role: "Associé",
-    image: "../src/assets/images/vito.png",
+    image: "/images/vito.png",
     tagline: "Ange ou démon ? Surprise",
     funFacts: [
       "Ancien DJ reconverti en développeur confirmé.",
@@ -66,7 +66,7 @@ export const employees = [
     id: 6,
     name: "Mathilde",
     role: "Assistante directrice artistique",
-    image: "../src/assets/images/mathilde.png",
+    image: "/images/mathilde.png",
     tagline: "La plus forte des blondes",
     funFacts: [
       "A réalisé l'exploit d'avoir 3 contrats différents depuis.",
@@ -78,7 +78,7 @@ export const employees = [
     id: 7,
     name: "Jeremy",
     role: "Responsable studio",
-    image: "../src/assets/images/jeremy.png",
+    image: "/images/jeremy.png",
     tagline: "Le studieux de la boite",
     funFacts: [
       "Sa playlist n'est vraiment pas représentative de sa tête.",
@@ -91,7 +91,7 @@ export const employees = [
     id: 8,
     name: "Aymeric",
     role: "Motion designer",
-    image: "../src/assets/images/aymeric.png",
+    image: "/images/aymeric.png",
     tagline: "Le gardien des droits des employés",
     funFacts: [
       "A survécu à Isispharma.",
@@ -103,7 +103,7 @@ export const employees = [
     id: 9,
     name: "Sylvain",
     role: "Associé",
-    image: "../src/assets/images/sylvain.png",
+    image: "/images/sylvain.png",
     tagline: "La pile éléctrique",
     funFacts: [
       "Si tu entends un sifflement, c'est qu'il est proche.",
@@ -115,7 +115,7 @@ export const employees = [
     id: 10,
     name: "Thomas",
     role: "Consultant stratégie digitale",
-    image: "../src/assets/images/thomas.png",
+    image: "/images/thomas.png",
     tagline: "La pile éléctrique bis",
     funFacts: [
       "Forrest Gump serait fatigué face à lui.",
@@ -127,7 +127,7 @@ export const employees = [
     id: 11,
     name: "David",
     role: "Associé",
-    image: "../src/assets/images/david.png",
+    image: "/images/david.png",
     tagline: "Le papa par procuration de la boîte",
     funFacts: [
       "'Vous pouvez descendre en bas récupérer les affaires ?'.",
@@ -139,7 +139,7 @@ export const employees = [
     id: 12,
     name: "Clément",
     role: "Chomeur et future star",
-    image: "../src/assets/images/clement.png",
+    image: "/images/clement.png",
     tagline: "La team",
     funFacts: [
       "Son matou s'appelle quand même Spiderman.",
@@ -152,7 +152,7 @@ export const employees = [
     id: 13,
     name: "Hakim",
     role: "Growth marketer",
-    image: "../src/assets/images/hakim.png",
+    image: "/images/hakim.png",
     tagline: "Gogo gadgeto multifonction",
     funFacts: [
       "A vécu 17 vies avant celle là.",
@@ -165,7 +165,7 @@ export const employees = [
     id: 14,
     name: "Quentin",
     role: "Ingénieur du son",
-    image: "../src/assets/images/quentin.png",
+    image: "/images/quentin.png",
     tagline: "Récéptionniste non attitré de la boite",
     funFacts: [
       "Possède une voix à postuler à Hollywood.",
@@ -178,7 +178,7 @@ export const employees = [
     id: 15,
     name: "Cyril",
     role: "Ingénieur du son",
-    image: "../src/assets/images/cyril.png",
+    image: "/images/cyril.png",
     tagline: "Cyriluuuu",
     funFacts: [
       "Aime les jeux du midi au fond, nous le savons.",
@@ -190,7 +190,7 @@ export const employees = [
     id: 16,
     name: "Nejma",
     role: "Développeur",
-    image: "../src/assets/images/nejma.png",
+    image: "/images/nejma.png",
     tagline: "Blabla Taylor Swift blabla",
     funFacts: [
       "1er contrat d'aternance en intermittence de l'histoire tellement on ne la voit pas.",
@@ -203,7 +203,7 @@ export const employees = [
     id: 17,
     name: "Louis",
     role: "Concepteur produit",
-    image: "../src/assets/images/louis.png",
+    image: "/images/louis.png",
     tagline: "HUH",
     funFacts: [
       "Chauve.",
@@ -216,7 +216,7 @@ export const employees = [
     id: 18,
     name: "Pierrick",
     role: "Monteur / motion designer",
-    image: "../src/assets/images/pierrick.png",
+    image: "/images/pierrick.png",
     tagline: "L'aigri originel",
     funFacts: [
       "Possède une meilleure qualité capillaire que 3/4 des filles.",
@@ -228,7 +228,7 @@ export const employees = [
     id: 19,
     name: "Arthur",
     role: "Ingénieur du son",
-    image: "../src/assets/images/arthur.png",
+    image: "/images/arthur.png",
     tagline: "Arthur Python, Option, Faisan... ",
     funFacts: [
       "S'occupe tellement du lave vaisselle qu'on pourrait croire que la place de l'homme c'est à la kouisine.",
@@ -241,7 +241,7 @@ export const employees = [
     id: 20,
     name: "Oki",
     role: "Happiness Manager",
-    image: "../src/assets/images/oki.png",
+    image: "/images/oki.png",
     tagline: "Le clebard",
     funFacts: ["Mignon.", "Mignon.", "Mignon.", "Hautain."],
   },
@@ -249,7 +249,7 @@ export const employees = [
     id: 21,
     name: "Sarah",
     role: "Directrice commerciale",
-    image: "../src/assets/images/sarah.png",
+    image: "/images/sarah.png",
     tagline: "La maman par procuration de la boîte",
     funFacts: [
       "Attention première dans l'histoire : elle voulait qu'il y ait un vainqueur au top 10.",
